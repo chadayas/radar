@@ -45,6 +45,23 @@
     )
   )
 
+  (sheet (at 43.18 81.28) (size 87.63 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a7a83c3c-ff2f-4f3c-a80e-562a1762ef83)
+    (property "Sheetname" "awr1843" (at 43.18 80.5684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "awr1843.kicad_sch" (at 43.18 121.2346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "radar"
+        (path "/88b309aa-5f0e-45d7-beec-81d4b0ee2121" (page "4"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
