@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "LMS3635-Q1_" (in_bom yes) (on_board yes)
+  (symbol "LMS3635MQRNLTQ1" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -12,13 +12,13 @@
     (property "Datasheet" "" (at -24.13 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "LMS3635-Q1__0_1"
+    (symbol "LMS3635MQRNLTQ1_0_1"
       (rectangle (start -11.43 27.94) (end 13.97 -21.59)
         (stroke (width 0) (type default))
         (fill (type none))
       )
     )
-    (symbol "LMS3635-Q1__1_1"
+    (symbol "LMS3635MQRNLTQ1_1_1"
       (pin input line (at -13.97 17.78 0) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
