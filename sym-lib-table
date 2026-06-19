@@ -1,4 +1,7 @@
 (sym_lib_table
   (version 7)
-  (lib (name "TPS7A53-Q1")(type "KiCad")(uri "${KIPRJMOD}/TPS7A53-Q1.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS7A5301QRGRRQ1")(type "KiCad")(uri "${KIPRJMOD}/TPS7A53/2026-06-15_04-53-22.kicad_sym")(options "")(descr ""))
+  (lib (name "LP87702DRHBRQ1")(type "KiCad")(uri "${KIPRJMOD}/LP8770/2026-06-15_04-37-40.kicad_sym")(options "")(descr ""))
+  (lib (name "LMS3635-Q1")(type "KiCad")(uri "${KIPRJMOD}/LMS36353/2026-06-15_05-10-37.kicad_sym")(options "")(descr ""))
+  (lib (name "AWR1843ABGABLRQ1")(type "KiCad")(uri "${KIPRJMOD}/AWR1843/2026-06-15_05-18-26.kicad_sym")(options "")(descr ""))
 )
