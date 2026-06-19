@@ -311,6 +311,18 @@
     [
       "88b309aa-5f0e-45d7-beec-81d4b0ee2121",
       ""
+    ],
+    [
+      "7a3c78f1-80f2-463b-a37f-9a7b3cc7f964",
+      "power"
+    ],
+    [
+      "5cfd71d3-71f6-4440-b086-f9392c754a20",
+      "stm32h7_core"
+    ],
+    [
+      "a7a83c3c-ff2f-4f3c-a80e-562a1762ef83",
+      "awr1843"
     ]
   ],
   "text_variables": {}
