@@ -316,7 +316,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -343,6 +343,14 @@
     [
       "62900e5d-413e-4591-98ac-b12b6d69be62",
       "stepdwn_and_ldo"
+    ],
+    [
+      "ddc2d131-3ec1-4ebf-8bb5-27c88395ad8d",
+      "connectors"
+    ],
+    [
+      "84871782-9f76-45a6-8eea-bc257d8c5908",
+      "flash"
     ]
   ],
   "text_variables": {}
