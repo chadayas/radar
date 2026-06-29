@@ -4,4 +4,5 @@
   (lib (name "LP87702DRHBRQ1")(type "KiCad")(uri "${KIPRJMOD}/LP8770/2026-06-15_04-37-40.kicad_sym")(options "")(descr ""))
   (lib (name "LMS3635-Q1")(type "KiCad")(uri "${KIPRJMOD}/LMS36353/2026-06-15_05-10-37.kicad_sym")(options "")(descr ""))
   (lib (name "AWR1843ABGABLRQ1")(type "KiCad")(uri "${KIPRJMOD}/AWR1843/2026-06-15_05-18-26.kicad_sym")(options "")(descr ""))
+  (lib (name "MX25V1635FZNQ03-T")(type "KiCad")(uri "${KIPRJMOD}/MX25_flash/MX25V1635FZNQ03-T.kicad_sym")(options "")(descr ""))
 )
