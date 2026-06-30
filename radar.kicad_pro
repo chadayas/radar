@@ -351,6 +351,14 @@
     [
       "84871782-9f76-45a6-8eea-bc257d8c5908",
       "flash"
+    ],
+    [
+      "49f03812-e634-4c1d-a083-41410e96c5c9",
+      "lc_filter"
+    ],
+    [
+      "041389a9-2193-4da1-aeee-97dceb52a846",
+      "decoup_caps"
     ]
   ],
   "text_variables": {}
