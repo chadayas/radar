@@ -2578,11 +2578,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 378d8989-c8bc-404a-8f02-1da8b73a842a)
   )
-  (text "This may be renamed once\nreset pin on AWR is declared\n"
-    (at 213.36 86.36 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 3aecc25e-2456-4989-9d38-7c0f9b9fed18)
-  )
   (text "VOUT\n" (at 274.32 44.45 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f206b7cb-a56a-4a14-9e5c-b46776a776ac)
