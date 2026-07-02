@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CX3225SA40000D0PTWCC
+D Crystal 40MHz +/-50ppm (Tol) +/-200ppm (Stability) 8pF FUND 50Ohm Automotive 4-Pin SMD T/R
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Kyocera%20International/CX3225SA40000D0PTWCC_DS.pdf
+$ENDCMP
+#
+#End Doc Library

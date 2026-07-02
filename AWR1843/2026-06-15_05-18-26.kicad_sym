@@ -1275,7 +1275,7 @@
         (name "QSPI[3]" (effects (font (size 1.27 1.27))))
         (number "P12" (effects (font (size 1.27 1.27))))
       )
-      (pin output line (at -34.29 -38.1 0) (length 7.54)
+      (pin bidirectional line (at -34.29 -38.1 0) (length 7.54)
         (name "SPI_HOST_INTR" (effects (font (size 1.27 1.27))))
         (number "P13" (effects (font (size 1.27 1.27))))
       )
