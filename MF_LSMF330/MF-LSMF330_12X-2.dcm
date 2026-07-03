@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MF-LSMF330_12X-2
+D 2920 Resettable SMD PPTC 3.3A/12V
+K
+F https://www.digikey.com/en/products/detail/bourns-inc/MF-LSMF330-12X-2/16053058
+$ENDCMP
+#
+#End Doc Library
