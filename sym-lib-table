@@ -6,4 +6,5 @@
   (lib (name "AWR1843ABGABLRQ1")(type "KiCad")(uri "${KIPRJMOD}/AWR1843/2026-06-15_05-18-26.kicad_sym")(options "")(descr ""))
   (lib (name "MX25V1635FZNQ03-T")(type "KiCad")(uri "${KIPRJMOD}/MX25_flash/MX25V1635FZNQ03-T.kicad_sym")(options "")(descr ""))
   (lib (name "CX3225SA")(type "KiCad")(uri "${KIPRJMOD}/CX3225SA/CX3225SA40000D0PTWCC.kicad_sym")(options "")(descr ""))
+  (lib (name "USB_C")(type "KiCad")(uri "${KIPRJMOD}/usb_c/GSB.kicad_sym")(options "")(descr ""))
 )
