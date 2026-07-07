@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MX25V1635FZNQ03-T
-D NOR Flash
-K
-F https://www.mouser.tw/datasheet/2/819/MX25V1635F_2c_2_5V_2c_16Mb_2c_v1_6-3400524.pdf
-$ENDCMP
-#
-#End Doc Library

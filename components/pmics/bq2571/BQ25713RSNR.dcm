@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ25713RSNR
+D NVDC I2C Battery Buck-Boost Charge Controller with System Power Monitor & Processor Hot Monitor
+K
+F http://www.ti.com/lit/gpn/bq25713
+$ENDCMP
+#
+#End Doc Library

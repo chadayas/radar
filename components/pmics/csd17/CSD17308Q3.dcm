@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD17308Q3
+D Trans MOSFET N-CH 30V 50A 8-Pin VSON-CLIP EP T/R
+K
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd17308q3
+$ENDCMP
+#
+#End Doc Library

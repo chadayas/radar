@@ -1,0 +1,95 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4b235fed-a05d-46ae-99fd-4a907d865754)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "PMIC" (at 52.07 41.91 0)
+    (effects (font (size 3 3)) (justify left bottom))
+    (uuid 262eae15-1a9c-4d21-a624-98c1722025d5)
+  )
+  (text "Connectors" (at 45.72 116.84 0)
+    (effects (font (size 3 3)) (justify left bottom))
+    (uuid 284177f7-2551-44f4-b901-30ae7a5a9d1f)
+  )
+  (text "STM32H7\n" (at 166.37 48.26 0)
+    (effects (font (size 3 3)) (justify left bottom))
+    (uuid 9319cdfa-d7c2-4290-adb1-131cdc7030b4)
+  )
+
+  (sheet (at 20.32 41.91) (size 80.01 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3b0f6a2d-e812-480b-87fe-92eb8a340c39)
+    (property "Sheetname" "pmics" (at 20.32 41.1984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "pmics.kicad_sch" (at 20.32 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "radar2"
+        (path "/4b235fed-a05d-46ae-99fd-4a907d865754" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 142.24 50.8) (size 64.77 33.02) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3c26c8d2-fbeb-40e5-a951-6ccf5c061248)
+    (property "Sheetname" "mcu" (at 142.24 50.0884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mcu.kicad_sch" (at 142.24 84.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "radar2"
+        (path "/4b235fed-a05d-46ae-99fd-4a907d865754" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 142.24 113.03) (size 60.96 31.75) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 40342fd5-2d07-4fe2-a926-1f2842abe411)
+    (property "Sheetname" "rf_chip" (at 142.24 112.3184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "rf_chip.kicad_sch" (at 142.24 145.3646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "radar2"
+        (path "/4b235fed-a05d-46ae-99fd-4a907d865754" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 24.13 120.65) (size 74.93 45.72) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid dfc10a02-f047-425a-8f9d-e4a822e029f8)
+    (property "Sheetname" "conns" (at 24.13 119.9384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "conns.kicad_sch" (at 24.13 166.9546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "radar2"
+        (path "/4b235fed-a05d-46ae-99fd-4a907d865754" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

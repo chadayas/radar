@@ -1,2 +1,15 @@
+# Reference docs / datasheets / scratch (kept out of the repo)
+build/
+
+# KiCad auto-backups & saves
+radar2-backups/
 #auto_saved_files#
-build
+_autosave-*
+*.lck
+~*.lck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Generated / cache
+fp-info-cache
+*.net

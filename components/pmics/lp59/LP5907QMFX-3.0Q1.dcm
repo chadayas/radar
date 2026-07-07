@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LP5907QMFX-3.0Q1
+D Automotive 250-mA ultra-low-noise low-IQ low-dropout (LDO) linear regulator
+K
+F http://www.ti.com/lit/gpn/lp5907-q1
+$ENDCMP
+#
+#End Doc Library
