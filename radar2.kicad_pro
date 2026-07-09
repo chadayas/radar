@@ -331,6 +331,10 @@
     [
       "3d75a532-5494-48d4-9ed5-2b5557e87c0c",
       "decoup_capsDW"
+    ],
+    [
+      "807985b5-afd3-48bb-8a43-2a721b7f6c64",
+      "decoup_capsstm"
     ]
   ],
   "text_variables": {}
