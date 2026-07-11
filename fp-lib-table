@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "bq2517")(type "KiCad")(uri "${KIPRJMOD}/components/pmics/bq2571")(options "")(descr ""))
+)
