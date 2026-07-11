@@ -3322,7 +3322,7 @@
     (property "Value" "09.03290.01" (at 30.48 86.36 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 25.4 85.09 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 25.4 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 17.78 85.09 0)

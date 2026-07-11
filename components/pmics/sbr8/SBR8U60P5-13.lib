@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SBR8U60P5-13
+#/281299/2097714/2.50/3/4/Schottky Diode
+DEF SBR8U60P5-13 D 0 30 Y Y 1 F N
+F0 "D" 1950 300 50 H V L CNN
+F1 "SBR8U60P5-13" 1950 200 50 H V L CNN
+F2 "POWERDI5" 1950 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA22/1400460.pdf" 1950 0 50 H I L CNN
+F4 "Diode Schottky 60V 8A 3Pin PowerDI 5 Diodes Inc SBR8U60P5-13, SMT Schottky Diode, 60V 8A, 3-Pin PowerDI 5" 1950 -100 50 H I L CNN "Description"
+F5 "" 1950 -200 50 H I L CNN "Height"
+F6 "621-SBR8U60P5-13" 1950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/SBR8U60P5-13?qs=nSryOFbzj8LdQMI0wTayiw%3D%3D" 1950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Incorporated" 1950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SBR8U60P5-13" 1950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X A_LEFT 1 0 0 200 R 50 50 0 0 I
+X A_RIGHT 2 0 -100 200 R 50 50 0 0 I
+X BOTTOMSIDE_HEAT_SINK 3 2100 0 200 L 50 50 0 0 I
+P 5 0 1 6 200 100 1900 100 1900 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
