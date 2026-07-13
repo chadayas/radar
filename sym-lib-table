@@ -7,4 +7,5 @@
   (lib (name "csd254")(type "KiCad")(uri "${KIPRJMOD}/components/pmics/csd254/CSD25404Q3.kicad_sym")(options "")(descr ""))
   (lib (name "psd760")(type "KiCad")(uri "${KIPRJMOD}/components/pmics/pds76/PDS760-13.kicad_sym")(options "")(descr ""))
   (lib (name "dw31")(type "KiCad")(uri "${KIPRJMOD}/components/chips/dw31/DW3120TR13.kicad_sym")(options "")(descr ""))
+  (lib (name "sma_conn1")(type "KiCad")(uri "${KIPRJMOD}/components/conns/sma/SMA_CONNECTOR.kicad_sym")(options "")(descr ""))
 )
