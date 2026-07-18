@@ -11,4 +11,5 @@
   (lib (name "09111")(type "KiCad")(uri "${KIPRJMOD}/components/pmics/sw2")(options "")(descr ""))
   (lib (name "sma_conn1")(type "KiCad")(uri "${KIPRJMOD}/components/conns/sma")(options "")(descr ""))
   (lib (name "lp59")(type "KiCad")(uri "${KIPRJMOD}/components/pmics/lp59")(options "")(descr ""))
+  (lib (name "dw3220")(type "KiCad")(uri "${KIPRJMOD}/components/chips/dw322")(options "")(descr ""))
 )

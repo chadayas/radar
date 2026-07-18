@@ -21,7 +21,7 @@
   (pad 1 smd rect (at -0.92 3.982 0) (size 1.39 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.92 3.982 0) (size 1.39 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 0 0) (size 3.36 4.86) (layers F.Cu F.Paste F.Mask))
-  (model SBR8U60P5-13.stp
+  (model "${KIPRJMOD}/components/pmics/sbr8/SBR8U60P5-13.stp"
     (at (xyz -0.0043307086379509 -0.047244096365501 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

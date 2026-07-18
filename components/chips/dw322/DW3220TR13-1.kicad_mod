@@ -63,7 +63,7 @@
   (pad 38 smd rect (at -1.000 -2.5 0) (size 0.200 0.850) (layers F.Cu F.Paste F.Mask))
   (pad 39 smd rect (at -1.400 -2.5 0) (size 0.200 0.850) (layers F.Cu F.Paste F.Mask))
   (pad 40 smd rect (at -1.800 -2.5 0) (size 0.200 0.850) (layers F.Cu F.Paste F.Mask))
-  (model DW3220TR13.stp
+  (model "${KIPRJMOD}/components/chips/dw322/DW3220TR13.stp"
     (at (xyz 0 0 0.0019685039663409))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

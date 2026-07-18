@@ -29,7 +29,7 @@
   (pad 1 thru_hole circle (at 0.000 -0) (size 1.300 1.300) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0.000 2.54) (size 1.300 1.300) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0.000 -2.54) (size 1.300 1.300) (drill 0.8) (layers *.Cu *.Mask))
-  (model 09.03290.01.stp
+  (model "${KIPRJMOD}/components/pmics/sw2/09.03290.01.stp"
     (at (xyz 0 0.19803150432316 0.19488188225453))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 -90 0))

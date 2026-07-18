@@ -31,7 +31,7 @@
   (pad 3 thru_hole circle (at 2.550 2.55) (size 2.500 2.500) (drill 1.7) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 2.550 -2.55) (size 2.500 2.500) (drill 1.7) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at -2.550 -2.55) (size 2.500 2.500) (drill 1.7) (layers *.Cu *.Mask))
-  (model SMA_CONNECTOR.stp
+  (model "${KIPRJMOD}/components/conns/sma/SMA_CONNECTOR.stp"
     (at (xyz 0 0 -0.15669291413675))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
