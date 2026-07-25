@@ -3093,7 +3093,7 @@
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "4.99" (at 80.01 219.71 0)
-      (effects (font (size 1.27 1.27)) (justify right))
+      (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 86.36 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
