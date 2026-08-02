@@ -13,4 +13,5 @@
   (lib (name "lp59")(type "KiCad")(uri "${KIPRJMOD}/components/pmics/lp59")(options "")(descr ""))
   (lib (name "dw3220")(type "KiCad")(uri "${KIPRJMOD}/components/chips/dw322")(options "")(descr ""))
   (lib (name "induct")(type "KiCad")(uri "${KIPRJMOD}/components/passive/induct")(options "")(descr ""))
+  (lib (name "55induct")(type "KiCad")(uri "${KIPRJMOD}/components/passive/induct55")(options "")(descr ""))
 )

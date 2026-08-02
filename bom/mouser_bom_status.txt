@@ -1,0 +1,73 @@
+Mouser BOM Match Status -- radar2 passives
+Source: mouser_cart.html (Mouser BOM tool) x bom_passives.csv
+Mouser summary: All Lines 50 | Exact Matches 33 | No Matches 17 | Not Orderable 20
+Computed:       X 16 no_match (24 pcs) | ! 3 not_orderable (5 pcs) | ~ 6 backorder (7 pcs) | OK 24 in_stock (76 pcs)
+Action:         25 of 49 lines need attention (19 need a new manufacturer)
+Excluded (already on hand): L1 2.2uH
+========================================================================
+
+[X] NO MATCH -- Mouser found nothing; pick a new manufacturer  (16 lines, 24 pcs)
+  Value   Pkg     Qty  Designators  Uploaded MPN     Availability  Notes                                                                            
+  ------  ------  ---  -----------  ---------------  ------------  ---------------------------------------------------------------------------------
+  10uF    C_0402  3    C12,C51,C57  CL05A106KQ5NNNC  -             verify stock; heavy DC-bias at 3V3 - 0603 recommended                            
+  4.7nF   C_0402  3    C50,C53,C56  CL05B472KO5NNNC  -                                                                                              
+  100uF   C_0603  2    C37,C38      (no MPN in BOM)  -             100uF NOT available in 0603 -> move to 0805/1206 or split, then pick MPN         
+  1uF     C_0402  2    C8,C30       CL05B105KO5NNNC  -                                                                                              
+  2.0pF   C_0402  2    C47,C48      CL05C2R0CB5NNNC  -             RF path                                                                          
+  4.7uF   C_0402  2    C70,C72      CL05A475KO5NNNC  -                                                                                              
+  1800pF  C_0402  1    C5           CL05B182KO5NNNC  -                                                                                              
+  22uF    C_0603  1    C7           CL10A226KP8NNNC  -             verify suffix (NNNC/NQNC); 0805 safer for VBUS margin                            
+  3.3uF   C_0402  1    C9           CL05A335KO5NNNC  -                                                                                              
+  4700pf  C_0603  1    C39          CL10B472KO8NNNC  -                                                                                              
+  470nF   C_0402  1    C18          CL05B474KO5NNNC  -                                                                                              
+  680pF   C_0402  1    C2           CL05B681KO5NNNC  -                                                                                              
+  10m     R_0402  1    R16          (no MPN in BOM)  -             10mOhm SENSE: pick by power vs peak I (e.g. Bourns CR/Panasonic ERJ, ≥adequate W)
+  10m     R_0603  1    R37          (no MPN in BOM)  -             10mOhm SENSE: pick by power vs peak I (e.g. Bourns CR/Panasonic ERJ, ≥adequate W)
+  5.5uH   L_0603  1    L2           (no MPN in BOM)  -             select by Isat/Irms>=peak coil current                                           
+  33      C_0402  1    FB1          (no MPN in BOM)  -             ferrite 33ohm@100MHz + rated current                                             
+
+[!] NOT ORDERABLE -- matched but obsolete / not stocked; re-source  (3 lines, 5 pcs)
+  Value  Pkg     Qty  Designators  Uploaded MPN     Availability  Notes                    
+  -----  ------  ---  -----------  ---------------  ------------  -------------------------
+  3.3pF  C_0402  2    C54,C55      CL05C3R3CB5NNNC  N/A           xtal load cap (tight tol)
+  33nF   C_0603  2    C19,C20      CL10B333KO8NNNC  N/A                                    
+  10nF   C_0603  1    C21          CL10B103KO8NNNC  N/A                                    
+
+[~] BACKORDER / LONG LEAD -- orderable but delayed (0 or short stock)  (6 lines, 7 pcs)
+  Value  Pkg     Qty  Designators  Uploaded MPN      Availability                           Notes                                                                      
+  -----  ------  ---  -----------  ----------------  -------------------------------------  ---------------------------------------------------------------------------
+  100pF  C_0402  2    C1,C10       CL05C101JB5NNNC   0 ships now, 2 backordered, long lead                                                                             
+  10uF   C_0603  1    C29          CL10A106KO8NQNC   0 ships now, 1 backordered             verified Mouser; if rail<=5V, CL10A106KP8NNNC (10V, LCSC C19702) is cheaper
+  2.2    R_0603  1    R12          RC0603FR-072R2L   0 ships now, 1 backordered                                                                                        
+  250k   R_0402  1    R4           RC0402FR-07249KL  0 ships now, 1 backordered             250k not E96 -> sub 249k                                                   
+  31.6k  R_0603  1    R23          RC0603FR-0731K6L  0 ships now, 1 backordered                                                                                        
+  350k   R_0402  1    R5           RC0402FR-07348KL  0 ships now, 1 backordered             350k not E96 -> sub 348k                                                   
+
+[OK] IN STOCK -- matched and available  (24 lines, 76 pcs)
+  Value   Pkg     Qty  MPN               Mouser No             Availability
+  ------  ------  ---  ----------------  --------------------  ------------
+  0.1uF   C_0402  30   CL05B104KO5NNNC   187-CL05B104KO5NNNC   30 ships now
+  0.1uF   C_0603  5    CL10B104KO8NNNC   187-CL10B104KO8NNNC   5 ships now 
+  1uF     C_0603  5    CL10B105KO8NNNC   187-CL10B105KO8NNNC   5 ships now 
+  4.7uF   C_0603  4    CL10A475KO8NNNC   187-CL10A475KO8NNNC   4 ships now 
+  33pF    C_0402  2    CL05C330JB5NNNC   187-CL05C330JB5NNNC   2 ships now 
+  47nF    C_0402  2    CL05B473KO5NNNC   187-CL05B473KO5NNNC   2 ships now 
+  0.22uF  C_0402  1    CL05B224KO5NNNC   187-CL05B224KO5NNNC   1 ships now 
+  47pf    C_0603  1    CL10C470JB8NNNC   187-CL10C470JB8NNNC   1 ships now 
+  10k     R_0603  6    RC0603FR-0710KL   603-RC0603FR-0710KL   6 ships now 
+  10      R_0402  3    RC0402FR-0710RL   603-RC0402FR-0710RL   3 ships now 
+  220k    R_0402  2    RC0402FR-07220KL  603-RC0402FR-07220KL  2 ships now 
+  4.99    R_0603  2    RC0603FR-074R99L  603-RC0603FR-074R99L  2 ships now 
+  5k      R_0603  2    RC0603FR-074K99L  603-RC0603FR-074K99L  2 ships now 
+  1       R_0603  1    RC0603FR-071RL    603-RC0603FR-071RL    1 ships now 
+  10.2k   R_0603  1    RC0603FR-0710K2L  603-RC0603FR-0710K2L  1 ships now 
+  100k    R_0603  1    RC0603FR-07100KL  603-RC0603FR-07100KL  1 ships now 
+  10k     R_0402  1    RC0402FR-0710KL   603-RC0402FR-0710KL   1 ships now 
+  16.9k   R_0603  1    RC0603FR-0716K9L  603-RC0603FR-0716K9L  1 ships now 
+  243k    R_0603  1    RC0603FR-07243KL  603-RC0603FR-07243KL  1 ships now 
+  30k     R_0402  1    RC0402FR-0730KL   603-RC0402FR-0730KL   1 ships now 
+  365k    R_0603  1    RC0603FR-07365KL  603-RC0603FR-07365KL  1 ships now 
+  383k    R_0402  1    RC0402FR-07383KL  603-RC0402FR-07383KL  1 ships now 
+  40.2k   R_0402  1    RC0402FR-0740K2L  603-RC0402FR-0740K2L  1 ships now 
+  88.7k   R_0603  1    RC0603FR-0788K7L  603-RC0603FR-0788K7L  1 ships now 
+
