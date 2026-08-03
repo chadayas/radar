@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DW3120TR13
+D 6.5 & 8.0 GHz Ultra-Wideband (UWB) Transceiver IC with 2 Antenna Ports
+K
+F https://www.qorvo.com/products/d/da008142
+$ENDCMP
+#
+#End Doc Library

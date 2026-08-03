@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS54540DDA
+D TEXAS INSTRUMENTS - TPS54540DDA - DC-DC CONV, BUCK, ADJ, 2.5MHZ, HSOP-8
+K
+F http://www.ti.com/lit/ds/symlink/tps54540.pdf
+$ENDCMP
+#
+#End Doc Library

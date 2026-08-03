@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SWT0220-016016GSA
+D Tactile Switches Tactile Switch, SPST-NO, 5.2 x 5.2mm, Top act 1.6mm high, 160g, Gull Wing
+K
+F https://gct.co/connector/swt0220
+$ENDCMP
+#
+#End Doc Library

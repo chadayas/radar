@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PDS760-13
+D Diode Schottky 60V 7A 3Pin PowerDI 5 Diodes Inc PDS760-13, SMT Schottky Diode, 60V 7A, 3-Pin PowerDI 5
+K
+F https://www.diodes.com/assets/Datasheets/PDS760.pdf
+$ENDCMP
+#
+#End Doc Library

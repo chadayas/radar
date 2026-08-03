@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD25404Q3
+D -20V, P ch NexFET MOSFET, single SON 3x3, 6.5mOhm
+K
+F http://www.ti.com/lit/gpn/csd25404q3
+$ENDCMP
+#
+#End Doc Library
