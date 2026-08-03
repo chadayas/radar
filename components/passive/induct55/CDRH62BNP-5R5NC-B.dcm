@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP CDRH62BNP-5R5NC-B
-D 5.5 H Shielded Inductor 1.4 A 96mOhm Max Nonstandard -40C ~ 100C
-K
-F https://products.sumida.com/products/pdf/CDRH62B.pdf
-$ENDCMP
-#
-#End Doc Library
